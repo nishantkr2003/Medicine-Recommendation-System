@@ -9,10 +9,6 @@ An AI-powered system that predicts diseases and recommends suitable medicines, d
 
 ---
 
-## 🔗 Live Demo
-
-🌐 **[Try the Live Application Here](https://symptomx.up.railway.app/)**
-
 
 
 ---
